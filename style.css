@@ -230,11 +230,10 @@
  /* For small devices */
  @media screen and (max-width: 340px) {
     .forms-wrap {
-       margin-left: -40px;
+       margin-left: 0px;
     }
     .logo h4 {
-    font-size: 1rem;
-    padding-bottom: 20px;
+    font-size: 0.9rem;
  }
  .logo {
     padding-bottom: 90px;
